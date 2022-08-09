@@ -2,8 +2,6 @@
 layout: post
 title: Understanding VPC links in Amazon API Gateway private integrations
 subtitle: VPC links, API gateway, Private integrations 이해하기
-cover-img: /assets/img/path.jpg
-share-img: /assets/img/path.jpg
 tags: [AWS]
 ---
 
