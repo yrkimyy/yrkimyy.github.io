@@ -2,6 +2,8 @@
 layout: post
 title: Understanding VPC links in Amazon API Gateway private integrations
 subtitle: VPC links, API gateway, Private integrations 이해하기
+cover-img: /assets/img/path2.jpg
+share-img: /assets/img/path2.jpg
 tags: [AWS]
 ---
 
@@ -81,6 +83,8 @@ AWS PrivateLink 연결을 설정하기 전에, 서비스 공급자는 연결 요
 
 첫번째, 여러분은 서비스에 연결하는 VPC의 IP 주소들을 알 수 없습니다. 두번째로, NLB의 탄력적 네트워크 인터페이스(ENI)에는 어떤 보안그룹도 연결되어 있지 않습니다. 이는 타겟의 보안그룹에서 서비스 소비자의 IP주소를 소스로 사용할 수 없음을 의미합니다. 더 학습하기 위해서는 [NLB에 할당된 내부 IP주소를 알아내는 방법](https://docs.aws.amazon.com/elasticloadbalancing/latest/network/target-group-register-targets.html)에 대해서 읽어보세요. 
 
+
+<br />
 
 프라이빗 통합으로 프라이빗 API를 생성하기 위해서, 두 개의 AWS PrivateLink 연결을 설정해야 합니다. 
 
