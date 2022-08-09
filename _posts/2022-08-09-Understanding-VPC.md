@@ -8,9 +8,7 @@ share-img: /assets/img/path.jpg
 tags: [AWS]
 ---
 
-
 이 포스트는 Jose Eduardo Montilla Lugo, Security Consultant, AWS가 작성한 내용입니다.
-
 
 <br />
 VPC link는 VPC 내의 프라이빗 리소스에 API 라우트를 연결하도록 하는 아마존 API Gateway의 리소스 입니다. VPC link는 API를 위한 통합 엔드포인트처럼 작동하고, 네트워킹 리소스의 가장 윗단 인 추상 레이어입니다. 이는 프라이빗 통합 설정을 간단하게 하는데 도움을 줍니다. 
