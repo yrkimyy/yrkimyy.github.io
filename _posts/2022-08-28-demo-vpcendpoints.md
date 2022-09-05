@@ -2,7 +2,7 @@
 layout: post
 title: 프라이빗 서브넷의 ECS와 ECR, NAT gateway 없이 연결하기
 subtitle: VPC Endpoint 사용하면 비용이 77% 줄어든다고?!?!
-cover-img: /assets/img/path2.jpg
+# cover-img: /assets/img/path2.jpg
 tags: [AWS]
 ---
 
