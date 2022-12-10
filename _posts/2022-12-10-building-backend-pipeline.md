@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Github Actions로 파이프라인 만들기(Feat. 람다&ECR)
+title: Github Actions로 CICD 파이프라인 만들기(Feat. 람다&ECR)
 subtitle: 백엔드 파이프라인 만들기
 tags: [AWS, Github_Actions, CICD]
 comments: true
