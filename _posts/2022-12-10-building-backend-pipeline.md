@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Github Actions로 이미지 파이프라인 만들기
-subtitle: 백엔드 파이프라인 만들기 - 설계편
+title: Github Actions로 파이프라인 만들기(Feat. 람다&ECR)
+subtitle: 백엔드 파이프라인 만들기
 tags: [AWS, Github_Actions, CICD]
 comments: true
 ---
