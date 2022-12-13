@@ -2,7 +2,7 @@
 layout: post
 title: Terraform Associate 준비하기 01
 subtitle: 오답노트 01
-tags: [Terraform]
+tags: []
 comments: true
 ---
 
